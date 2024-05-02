@@ -1,4 +1,0 @@
-<krpano>
-    <plugin name="bs_modal" url="bs_modal.js" keep="true" />
-    <plugin name="uhta3d_editor" url="editor.js" keep="true" />
-</krpano>
