@@ -9,6 +9,7 @@ Link to video tutorial: https://youtu.be/yvcT7J5ahXA
 
 ![](https://krpano.com/forum/wbb/core/index.php?attachment/3730-image-png/)
 
+> [!NOTE]
 > This is required to save our changes to the tour during the editing process. Putting anything else in this file is not recommended, as the file will be completely overwritten.
 
 4. Add all necessary styles to the main tour file.
@@ -36,9 +37,9 @@ Editor help:
 ### Creating a connection between panoramas (key "Q" and "E")
 
 1. Aim the crosshairs at the location where the hotspot will be placed or where the scene to be connected will be shot;
-2. Press the "Q" key to start the connection;
-3. In the field that appears, enter the name of the scene to be connected.
-
+   
+3. Press the "Q" key to start the connection;
+4. In the field that appears, enter the name of the scene to be connected.
    You can enter part of the name of the scene you are looking for, then the list will be filtered and only suitable scene names will remain.
    Use the up/down arrows or mouse to select the desired scene and press the "Enter" key;
 5. The selected scene will be loaded, in which it is necessary to indicate with a crosshair the place of shooting the first scene or the location of the hotspot for transition in the opposite direction.
@@ -70,9 +71,10 @@ Editor help:
    
    Just in case, create a copy of the scene.xml file. )))
 4. Reboot the tour to verify.
-
-<br>
-There may be bugs and errors in the plugin. If any such bugs are found, please report them here for correction.
-I'd be happy to get feedback on the work and suggestions)
 <br><br>
+> [!NOTE]
+> There may be bugs and errors in the plugin. If any such bugs are found, please report them here for correction.<br>
+> I'd be happy to get feedback on the work and suggestions (https://krpano.com/forum/wbb/index.php?thread/19910-editor-for-web-uhta3d-editor/ or https://t.me/lastromantik)
+
+
 Enjoy your work!
