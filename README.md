@@ -7,7 +7,8 @@ Link to video tutorial: https://youtu.be/yvcT7J5ahXA
 `<include url="plugins/uhta3d_editor/includer.xml" />`
 3. Next, you need to put all the <scene> tags into a separate file named scenes.xml;
 
-![](https://krpano.com/forum/wbb/core/index.php?attachment/3730-image-png/)
+![image](https://github.com/LastRomantik/uhta3d_editor/assets/40997453/ab2b2471-cf13-44d5-8704-4be3ca111c21)
+
 
 > [!NOTE]
 > This is required to save our changes to the tour during the editing process. Putting anything else in this file is not recommended, as the file will be completely overwritten.
@@ -18,7 +19,8 @@ That's the end of the preparations.
 
 Launch our tour in a browser and open the developer's console (at the moment the output of technical information about the progress of editing is made there, in the Console section).
 
-![](https://krpano.com/forum/wbb/core/index.php?attachment/3731-image-png/)
+![image](https://github.com/LastRomantik/uhta3d_editor/assets/40997453/b80c6bfd-101e-4990-b890-a3312b008d4f)
+
 
 After starting, in the center of the viewer will show crosshairs and in the console the editor hotkey hint:
 
