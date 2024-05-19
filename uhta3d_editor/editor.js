@@ -1,1 +1,773 @@
-"[[KENCPUPR%*,W@n>Pq:]c<(ea50@O-#8=1mC1e:e0BkaBW*;Q&r[B$WCQSr8g<-0fJ;E9W6C=]o?#o;Y'S_>?))e(+'^3mD`VQQ6kd[qF)UlN-Ga4Yrmu-U+E:ft62$#Vg<0]#eBs$)-+-h>H6DiNqqZv2goM+N1XN`Qd'u+S0+*ge-72I6?(OtFl(kYdU.U>XYHCcp?V@M5z/?VG'G^6Ya<-h]I2:epO3YY).,-9%Z/n`1?(e2Rt4AE<1k(#Ew:1sJW'Lil0-JA;A_bbO^CW]jlJ.WXr7W6MQI?0AUE^;rkoUQHBfn#/2=hS;iAD.4/q_n?aABXb2>)[R,LDuT?L<Fi_oH#A*=DHgK%smV72u4)EW@N9$#jG=a@-V@:>ZX-X%JWAl93Ks20ugD_<dYzM-Pu5,f[Y<nFRqfz>bRU2G[h$Y#mI6GtQ>bJ=<IGW,%W]z/C4t-;90H*=k^_i-b2<lpLUv&?k0Wn;c(]7L,0U;KO&a4'P,2%5WwODAf#1`[[>5v/c:HCVj^j,QPQX+DNp`T:u.mQFFl_P2mv(u2^pU2@TZs&)FU/BHm<i1%lXr:@J-lN@WkQ1.wjeaFS2#O&,M[jF^`hEAGbMt;'aGd61XNcP?d]VGzIgC#nK]90Vlm/6mg^8J(w4D0QlNEt-dO9I%H)k-nbM0LbbTn/U#FR=X@@e>wag?D':@97[T-cH&oi>Mf&A*qa<d.-ennKb>/EPFfrL`;`P41ArK0Z'$81v8NI<7;KV`ADupGIbh.7@;X1S?:_Tc#GVgrMHw`IB8ZZhE5s$UW?V&SR4@_gJVW+N-@9Q>M?GsZ#8.s@.3ku;0.JNSd;=6g%nJ*FZ%-hZc5Xn6N0q`sRB2;/:=IM'D<*p>50S-,g<_=q4#h)n_MsQ7Hkd]BG3Xc^9J6BsSJdpz34N##m()8H7p['Z0<Kt],1R<^L%H]tt/UGFTeOpgJ6c$I*4sJR,4gmz@E%n50Fp?V?$[iBW50J9[k[2AZ(o[UI$#wzG;p_jpYGGH[-P#Fb1Erf^R+j+p=8?f<^b0*.V]ob_%:wFZ.89H'D?mw<3&_>h:mc%zeSaKDM``6M,[qa-/gmN.>:P-k9-0:e1jE%F??.nA19K#n%Cn&)0iu0/[]MzuC*,(=GifKs#m;7Q@L3o&f,[Wa&tB5Q>^HG9+p0diIH:daUiwgsIO[Dq.I)&oDvWJ8#m>cU94oli<U['cGnsR%@))p[g`ef=2r-vUaz3VTLw*R#mqjp;S1?PaopcY8%S77r=o)L6LjFUi>3FNsRsv<E6Ah@:0d^1nAqmf.GQq2v?b*&8qF`sl%PU#.2O*?r;Yv^X$l.M50?Uc#?BhWX&4/l;t0YoBIu;<]9ic))PLvs<.Pq8[Pf4GV<`hO<6<mod4m*M>-n#s0V)n$j+@^cm1BCv`lvJ^s8d-b@*r.W0*2?ma8&8.5=n'SC5ubE7P%zc3QZ'(&6FBVc)U@g+FuC2b<lO+/=IO<3#dYsOBMRQp6Np2?;9$ip.;kJ6EMMH0?tAEUWHAuUIJ_[kFTTh#@??6+IGI-w/o=hkm6B$9(&[U,;^okUnR/%/;.L,_+$d0?FuR,OQqCk?z]Iof7W=J6[U/Y;:@NmgE8E_?6v<8b01fH5-%*pg?XlN>lNK;U6=AaR(;.Oi=XohjFB9c(4`+6s=<U:A(%:e`;?&7S>tW8>@*`zj98mfX'#_.BDkTi:BK1CST:,Xd%8;r'/%NI$Ie`9dgE3BPj8w>c[T+oWJii=@<cH1Y`uv2BQ<;Vjc;TF$hhiMII6O^>K&))pKz't39$(f'K8g`i5M`3KS_TdQ6VnM`)0:[vk<EYvp)Whw5wTUeHdP/AFkfn>0b8h+=5TsT)$(FL1e'hD/1AH`Dc35Y;TNdP/a?,'57&2'=Wb::@*0]Z4QF3#?mL4f%0%9r?R=R0k$P+Qg/BJr*d@PP7C`wg0hwr`<C)Ef/rpl$qb=tdKmIm12/jtQ^>;SEPT-WGGqnUE@,oi+0w(Cr,caq_Ha3q0p>v7,^Y1Sl=tSPr@Xv_v<w+M8Kw^CF6f56o<sn'I6HJt28Njil8KZvI:op(-;h6Op[.Q@wnpLnTn?qrh`@BYAV^h^UXg'mFGdV-1Ac$DeW:_<N_q4)UV+_(F5o^,_GaMYI9Rq<&p/4DEmsGmEp#(0u%@'g0RcAAeYvEssM#D5BSV9;w<iOn'$YVUib%pdsL@(Ql8=a_p&/GtX61z_tK&w%Z2<=Y/HHIJo7Z#C*=(uFq@5)&oAcMIG;8;]q6O(ewJYzFP?8fGBF7Vh(H5ag>Jk,59>^%m9E]6/)#XbuF_gw(I^;U:FmgviqMK;#<emwH0.D5qGtqm)ZI&QNhpA,9q)/Zaz=RM%(1@k(s@9jbG29Lj&=f`P3Z=*'#f9?ILM]sd7j&L5oiLb1fE@XK*6X@L8IqkSE[*26mm?G8VEq]1v:hT+D3kbrK6i]Vg7P5LKIM;VJ,^.vL2U$ZWRc?<3<pzsJOB^f6?==vKLcNSjCe]RsnR?1b=56H4V,a)rQ',oh(AVnl;+nIBX+sHi1#iuLI`*6.CR&ABeB-I&7Tn.W&meHKPbR-HbK%du-5]nv=hFgVEEO5u0HM]N&jO:G'.]15#%J&BK)3d0&R<Tt9g8jc0f3Ds=%@?+7w%LI@E<EjF7^g7>]kTpbna&tOYholLQL=47-<Ab+#E+1Cg.mg^5`0,/Tc@sGjJc+`Y%<fI2lP?-d&,*Yb9E#8CRa&G6[TiF%`4@J1Y_='kke0;F.^;sFU&qY__:8/pmf^,6lAl#[_[k9H*Bw4Ls8)mT'0@@_I%P/=?PfVmmoA0:c)K2'M?<A<J:UZvZO8YR</03a2gd=KUARNAII+3$QG%&8B9<HzR-D*h*e.1j%gm>+3`6GUS]$8ju@2R=)671dI;n(X`ebXVsKq8ahM@AP'km*T]?N9%:ag=-v9B5a_q:zYGvzd?t])>,ORj:LqQV)e<o)Ij603&Ml,<:CKZ>0l7lFKz[a>E_MMT>q_Oi856a$3;SCDGSz:U?ez_t(u>#-&c0O@I&L'bH(tP/VaCj&GG*[$Ez59<-u2<q@zipqG[`]:7A([2LZ@H;^9PK#.rIHjl-&;$ER<88?0g:j*A>[(2Z-<TPDbhY%P)0dkaO#<kHPH%/95a//K6p57tsq5;W7<b4'Vo+@93Sp1G5iSKQF+O9`p>1BCeFRK@__)-msd/46+SlG9O/z9KWUJ=-8tJH46G]H4qPRL<)TzB)i#rEJVr;2lA1L48jpQ@b.tE:MHXIsE,*H)j1j70]rDBL$vV$85Uku=-[8]8<.KP7hfb&hM:zap*.`p_EGNAQquuKK-1DmGid-86OH,V:.u;=8;CD#%M2iEG`@bFtI'9-E0cfu7mMhD%tLaF:'IWhY<ZS*4L*RJ;]YT1>F%6&'?iY@6*#Ssk*)G2@-K%785t[O9]^sN52I-Y2S;cuKJ4?&lg0L2IB:<h;l4_bo4w2*>Lkr+MQw*(/Kf*3/LqUV$669e>/=Mrmg6quNC:4oEC^z24)&J>'ELM?.g^7T2kuVwA2bDj'@eQFis;@4$1_`JS4qzn8(i_h4zo)5I_7io=+N0$CH+oF,@+UoL,'3b=ZI#jo$Zp(HFzXeBiSO&2Jk4X5ap$TF6)`S<vc*fo(rI>,;Hb+;m-_7e',nm1)`=<=`)Zs4=BnD:/<)u=v^nB5)jXpP<1d^W=KKgJE<Da'.fl9'6aMV;gF?wAY#Lr@nRR'1H,i_5L(PH&;lVO3zPq10(@*S0Ue?jAm7PeC5XpR8sY@IE('(U?<Itn=k7pBTZ<RtGw$ZG;4]kt1(kh'Hres+6og;ZlmOFJQQ`Oz$MLagC%NIf(dB9=8<#jP?`*pvb#XbQ^4S5>3<R&cDCS^1Mq/&gq4<d:GDa3B@V-vCFzq'i/^?j=Ia0h)+9/w@?-)zlqFSGTfR_]Ot,?DUURkS$3T?>VA=0a,dD](mF8CiY<bvw#%mNCX5;GN#Lq6[NBzWvKEH4#s2Mzoe1s-U4KW0H1<.+PtCJ`^D+)C5lt$epEQ]i`0;KwD%>C$eeblWk1<IgVY5vaRZ?0Mv$PPjo8fwI+zMRBd1KeY+R8D+$Kt5M`OM6v#ObcN7C28dJ6<V?#dA([vK3zKXm#TTl]>F&Ph5S,M:NMp`)%YZUi/jJcK,>M`BVNUBPY5Ja;)_koO&+L7Z;2+Vl/nJ%G>`]#O6EENEe#Cbr$0w)&.jmKk#FW,:4TmOI41Dwf+=36`:UN%+$bXTl9+T.=[qD=PdR@'vH_(UEiM-gdE;*Q'E`zSg'<iA_@p<K--D-A`PLBo+_ej)=Smt<()SG6?oaX70A@udb@[25H#'m%A6lw1(IF(OweJ9$/2&p_iGT%a8_pp)IAjCN85SC,VM7&:JAm-0=`^GF0I='WK:r_F*P3v-IDBQFC=V_%+0bG@M8)tpH+DR?9>QV<4_TdYQkN,f2=EU6S8zv*Ee5]%5Pk9N]4ib96Dn8s(-9JV5]D/IC'?NS&;im@5D>fXLJG.2p6u+9X5Fp).AaXw@&(&1iI0Wtj<Aert.m&>nE$[_A99`GoBQ/5d:o:h<:?iM8]:eraRv`hhKa,2b[2UO/P;gJ::l+,BD5g+R(5Aw<<B</r<[sqX+-+Tuju7J3[_T[i<$Jn.J-dW';k&YkCuE.6Lk$?i@<JGv1EfjJ>YJ5%,G<z+.ZN0q/ev2C5Y88UrAYYW?fu;.&#(8(oz5-OT3%6M@@dKLO%;,>K:4E3DXUq:;>UO;l+*EI;*gbJ^7L:RczdkFIz]WX;V5wwMQ?7_/VdCf5nfFA/nb^O;aa>[6FCPN=`oq'Zfb*XMR?o/>sd0E-*Q@h-bACkE>YL+7i1Q*JERb%-:wV>@nl'ND+9$mj;qq)<Bu]U]/([NO33Wv?@gaQE2hkX@&sDo0(sletHuP;P%.DPG5[u8DRVP/9J1W&D)E7?F<-t=D_J-tMonW&G]jq=3SS(RY;@#@9X<aEE>ZCm*>Lq>:fG&Q3FTu3=6&d#'[^solAM`c?tQ2XI1.ZiBk[FnK2B`#3-OUK#s=601E_4]>+*8b9q>Zji;P#r<@$%`*oKm.AOrJsAr9mQ8J.]@4r'A_Ii<_(LO6):Yk9]nIQ=hi]$7W0=[%MU54EeG>i0?H7LzYTjuIm8A-HHN8-mPdUVulJ87VNn=kv><BEc&m4H6tw0>4I[C]I8Er_DE'VmuMT@X)cJK93+r3uO6['$@B%*uYXqJ_BQY1H8k.6qZL)H%][q9&D.F9f^c(06I)z&vUfXHWq),?D4c[@9^*2?tv;@@Rs0^Y(%^`D+iGdB:6bYeXe['SJ.z]G-z?jjHqg'__)XDIkX:65#YmH4@/iWCp'>pI-L4,)w-%F/4=,=q<H''G&Hw5SFEvNoS1W)7smE[a_mPwi,8K?O]RPh2^[pt(hh2R%aB+&iEN@>,T1]t*oOvg<2E)Q/g=+KLr6`,8FN[wFrThq@&'=I:4TjQAHXH$MK`=U#3'fW+c&EWF#vCa4r^K_=12dh(N22(tIFjCI3t=_:YOFjLKtT@ZZ>Ph6GQf^,wFhe,g52%7WZ1<>g7Ule9v=#`h[4HKA](q>m,a[BtC--;:>4YW6lV+KqtAJ/enSn>[1UWBmlU2:eP/&81]X;5jsd.7o<J<@n<DvI04*d@BK5nHlg#*7E:06P1X^r=3TALEnv;JD$Q31=R?']=h;A(7RpnEuQs5tIgk=;;'L^5UU#mT8NY1>A9/HE0++-2>Mnn]-Hoj==/[VPLYCU)M*S6R@[nK_IOWL&b0RJY;EB;>/EEK9+cftZ8;iS6??o6C8-UZp8M?DF$Xgh,)`kjrB&-cZodS<_F-?i>?&l63.wIWY>#Aodq#:If=:`_#:_oruF?tLL,U@)kHU%#P<9;l3R4thFHjMMm.56KmUJ8:>9?X^V?Q(pF33iw>3sgSi2JM_bF17=)mLUp%Lf:mZr,lo4HOw);)a`7S7^:cw/?E)O8h>HLj18D?>O,UzET.Kk:2a);<f0%*6M1as&hCK4CL?WUFJ<2uA-60[H-].OfK`&IZT#Mq<nHle7pcz19$Otz11F1%EWF58U+vp^Q=VOr?>^DZ<9)zPLe`T&WMFTl.(MbbA'50I0gjGn4[AuhO^RsUVv1jaR2d`o(]o$W3W6g9+btA(<IP[P9beF^JO$bn-&vYg=dX)V4@Nf+DpG<2K39]$zB],;j`VuO?iBtu`+ACRCQ$K>2YJ2W;$:#[R>oY1@?br>Hj$)UG6dc?4J0o8<+ed#Fms]vSJ90a8FD9c:>nRzp'7gZ1hi=hAwm0v+gI6l=J=:;'2;F[8G[0;TO#=WL+u9V>;:=AHQX*Vg[lqnEcrr1f9@%U*.I(G1*DQYIvmPhJTqtjBFY,o739AN)?SEF2<-QGL(f,]PH[+KY_12aKX$6%L7Itgm$*At$7#vU?/6,rK,Ym$q7FQP/Fu6/(jA0<hKRaE>&zFtKV'0%_9XbE.V>/R56I3c5+@*[Ql[j5#I@rUG]kV5aUih@Me37sm%V4</2kpk#Q?#P6C0RT'?w`EHQ1K(LIWlGKQ&MNA&B[z:Fa)tAC?KX(C<@E$kJQrAakPk#kCZ;@V[38B>)QMARs_8P&]/V:e`JdEb(2]<^B3+@Hk_jEB;ak<lKN+T3<+00N@957N-LKP-)zN;0;Yd=<#A@?0dPz3ACTI-g)lQ<$(j[tB[)to_mcu-Y[qAF8>e^=ASM9HU(L4(^1=QJ_:zj0KGX[#)&RNEtd26:SmO>hr_'pnc0lnCN'-O/r9$5;U7Tv?6u5BJS]#`AE)O?lj_sJ*-b`/9s@;h58&EQ</?1.=D)42(Z/9HVGUAeC:ggW8/8`=MdcOc'MagD&#'5[BHzC*FUZg=4:lPd:_3D+hnU6<Lfb;8>d^2t#huEJA'rznJ=P2N3I@mGs?[lI1ChjU>'2U3Bo/;F;/)9_Lg;+l'nQrP?hubV_.:m[=pQY+>cNR.E3aD+AMd,mQ`RYdHSP;3Dnj`Czczup5W_.#@cRot=ta`3LvlG;D---W:`%=4]VI;+@EajN=)I?.0A*E57Kil$E#fn]=pSn]dLQr1XWtNc@64LnB#]YXA+6s'8R0J($UTipUcs>kDn0f'=.Bs/E7NMN9`QcB<Y2(l<BwQp1sQ`,Avp#2Fl+N,9W@IFD6,.K=>41mn`->zKUG7;De+UOD9SK#;A*.e6avbf`5_bFNL5zF$M'<nFL@R&te*4J7^1ltVv?&*GZlOM;A3VX,@cl-81(h6O@[<T=Ot-M@b_H:=UVEp/.m;k:#]ug2k/U()w#s;7SQ;K>`mU)?PU(wPZfUmE%&X(,i*F>T/U+r>#OG/97bg88sC+EI1?vMA0#.$Qq?wG3nW`bo)n>8g%C:P5.HHK4p*hG06&UkTv%G].CTW_E6,t#Q)pvq8DihXAb*Db6iZ.i3&u#k3Y^(LG.JUPMaKtlJ`%=i;F@UJ?#JCYJlQ#D9kSad3NS<G0@@@u5DW^5=pS;Y9Rc;]9hQ0=0G,+>03,&.h`s^zc^s+os8.0`MKl)c3a$-g<mzsDOqWh:HC6>9-VzD(<(_4m6vU6G>:nY=<vLNcM+(zKHS_ED#J+q6MGpS('z+LI;81+q5:/7-3<%X%;m'`A,Um9.kB0uBkEU$J>p+97>KIK:t95z93)g(<=me<;@qfRi&Q;o9>/kUpBK`IwXO>:NK#(M/S&6'<.NzPnK4op5D@/Rr>I-9cJjMvegfGB?^fJ42Az5X?&J,#6FgtGS6XEH)K`Ph^:tC9JV@P2nIw6`B8#I`kMT'NXbCUq4H6Jo9ZjzLu='^uJ6MGP-?pI6oOH;cr/`?[o78WatJY)s-CVUwZC3RsXz9YboBql*E11`jV1-b`3CgvT)#g7VKED+uT,ZIMI8?43&@mk^qD%OhC%?f13ZX<u99`O*=_-tLsKPg;#Hz)c@;dll32F3SF<,ga-;g'm=VZG*l[jaWgEqda@UL#mHAMIO.AK:hTA*Ab6DocD-2RdXfB8[H+$RoGE=]%bh6$eKk3e@-b<MNGf:i>Zf3CjSO>'#Qr%jXr'@fDQQP)>*[st/:K-g:61iUl6/=Li@-Hu.;uFe;dQ.P5Gr=>LEs>WX5GO%m6C27DHc=Ro@%<RH1o8$U8^@Qv<B6?nB82L-zZIOc=ATMMcIWO=Ow(Av+?-[let@u1hF:@.9k,I58=9N;GT_XG8V_OY7s%J'Fd7e#`mg-pUDsP)S.kXSD5G;`9X'pXRd5K9Cd$haw78?YIs/CIdq0[R'e3?m@mDfAiDtDc/s>/]Vz*1i,RBKn&ZPogbp#MieQ'&s=[.M,?z,,*^XKe?<w60%Bd,LLr%+<8BJ1$j%A^m#UBA%Y2S45Y:;*O#@pK(..2@12Sm60lHJfN/jHb>:Yb**'$/28+.H5[=[q&wNJl`K^gG8HiKaF#df8,7q:V=uo^.$i@e@%Kob)Lce*p4]El<&G2Vw%O/ZTBVn&4%G5CV7bpM_nF3%M$q+an)OO-e/'Pq/HJ7vT+>R0f,vz#9j/55(?V$EO&NVb6`F5c'&vm*X,Asm4)'2*'.2#41<coR]BBvD]aIq_HmJv@&'t9f=,7NJ:+SgG_&Gc+UGivKa*NiwmHfUB5%r>Hb.Wbq24s>j$4_eRs9.,-@/S7dl*ds-s6)MZ#2_*@j3e)3g,[z:IrKdgW5d'*86qesc%pF&TAX>X?+wMg<*(@+5f[P[>3AUgX3,`nkq3<1?5EKkO&^w+n>8+UL)Nf*UA&@aR.bmcGn+A9`p+F2L$-k::(.MJs@%3?C/,20$@l>R^.@cPlF+7^$4p5QT0))4--=EI]'MTFjE$`vc/_d_b,^S$7?46weKbDaQ+[P00+A[=#o(Mro,zVak2w<In.V'q==hWCS46P2X'q*3Q`%Cod,Wt*b.[:gmb,nAC*d>8i2AiZQKFCF_$Y?5c&l6_8(Z^s2iI7H)kcnp&@hoiR4th'X1VQkH*[QvVD,Bar+Ul[5-Y>uM)Q`>)7118/,iAi`JXDC^:t'`j45?8n3o5d,+Vr^l>d5B$3+OG,*/&^/__4Q]4['./?CIA[,uz&d'w3r:)47no,Ru&rbe-X02Xf6%+l+plclTX6)6atJ6Fwhj>eA9?(9MHZ94[1*,`6QKbrHbXg>Bjh%0YNZ0JFoN)qCc6*w<wq3>C8[C%p>v@?b)&6O*gP'lR7NHQu02KCv*>>Y,9/0Hr&;7^7=o7(T#F.0DKe(1D:r/25k#saT2&)^Fj-,(bw3KQ/l@7OGs-0Vrpf5Az&Rmkbad#>G.pKXEAwr[b,mIIRJw4M)z;5)3T)%c>+NEY/qU-iZ/;(hCU0rfPe(FPt<&;+tJ_?)TzuIe<ma9'zHl#.IXr7%s^5?;Q,D/^PRu&5@G0'MO.OGN+Uu6C:LY6U>Z-&9Om#>aFG_+wqcI06(IzItcX`%d_@c#Fg?l/>6V2%K<oC6)W'd%g%BVf=ZD]#vo`>?tmR^f1cU&G%#Ua*dj<r8FOhM$w]I*IIf-@)Q%)0/jl$FbMi+_%6POB3WgaS%Z8%P/C/1,,.p5iWqGot,nrE>*+WBC#tE%C(/`Hk;cHVdIP.jTA8568&=N>t#o*#]BW*)wL%45E/sjK)^g4qZ$?>CA,J3A[+WABm>-P'&7dB'vK9RN+tZ22P+nvcl/-rCYnh9;U8%R^WBk@'O#d-PqHQVo2'Nd'q#o@r7omemFL/XWh>Sk'J,10f'&z,s+/r0lWMm)AJ;l?tUAh't;c^,m+DL[XDI410=#COkiJs$cL)5vWKBQ+4p/bP4b$#OS((RN:+<IVj=hW?G_/O^r:%1ns$<M3U`JM8mG7U;Ai%laYWc`WJl.27_Y`JS#/gBvMW*(rVB)b4vf=hLu21r(ei98D%X7Z9HwLI3NQ]EfmK6p*5w*Fk_fF4YeYGC=tuEt(7V3h`:I,1BaP).%Zr?u3u'I6^KX,G/P<=Rk[22?-vM0@Ij6#i3#aXvZ<N.ICDM$j$8snR`@z0S<nb5&t$)?,Z+nH(D<f%)iZj#3Y@wjM)S?5TR-?$Qc.zd<Qs.'%:C-%;Te&BY[0`&=W0iC?GFjDcU;Kna^VPGrtcQ+3-Yn&2R8L+a=a3J[4eP&pL4nt,6pN?,$H77>t)g+rZGk(vnzP*zQ<&00R)D)rR?@+2VB&&2.l0#o_5j9Ezr##wNLHaD?dV4>%b^/e5Wi<*CMuFajzc7sS?g%7hzYP.S7dIGi=c;M7L*iSWGu+O(P'-$7.wI4U6*&MVi=r,i=,+hsPghP6JteVzS(+6$zD/JF5C-;0ZK#qoo=Ls/+d*o5_ieQB8sCrAC27Dz;UG/rkJ'UG^R&NjfZ1.fz)*uS)zF.ZH+7W[E+h;e/:-duQTo;=Va68n&[F9AA[Kgt7g605//0'AY@#uQHhd9^6j2?kjF-'5M'[Tvo2&9`(]P%vjzAopI2#l]Ub%6Ue+>FTpeWa.3SJPk&76]F5&9P]3R*)ueh7$FO.9Xb15->tmu*e<k'Cw*$P*-MbwG_*MY;)gHSDX9E>%]=HU%@&t8E<dfB6G[w)721'==)F$&OEfKn6`5'G&@TP(1&3T8H$-%.ZLOqi1s'9sdiq+?IDuG85'HRkm-mn(2*8>plujplJVODk(HPHg9gw(N#>=M_st1z.n@?QG*6RU,5M)%P5W#(>'s=-k@EZ5-.(`LCE#(055mf3?#k6wG05T)7&%)_e7uW,BAo68XE4?/X@hmsX#qM2VHSYZO;ts>sKgvRd01Aq<2OCGu$tUrlHOZNf(jPPUAtEo4RVh1H#jgCs<6ABsTr3<A(ub[t=/c@Y5'P5tDs;@nF0s[N'E[$<iKJJ%io)I<=:p_e*,O63-.,#31PNHG;oA^T3Jn#;AuBtk+YP5B@G(>2%QmaL&%5dR@V,6<DM^;J)sK-b%K8UeBJZ&02``43$tRQ5reOP#+Q,0W,D<Z:+^b(oHH'[UE8zI/08>ocarI3#5mMAA2ES:&e+_9Z(K=%U56WSqCTN#$)`WD>F_Q4F+,bU;`^dbS[aMsr)z8t71LKf_I4o_C;&gFbG1NgMDj8W>*J^Ns$wZKi3pTa7-hDJ+,.Q3[@L*5&Y`7/Q6;@wQ#w?v,35_RA8LbXBDT5%Qn>=X+7?pBL#9Q(Z-^'ut:b5g9/D>[b,hf@Kl>)NK8kMZn*M0'ph.]dz1sdFnC=[>L*$u@T*ObRMEY&S^-s@dhZ3$u2b'_%b29'&^5kuZR*'@.m5$hXlIqQ5n+ie7qAYrXw-qcjv23a6U)NSUYHH)fq:r5_Q1kVvS1:bgY*H#g3/YQI:/(nW_JMgddgb_6l#.mfp@*S=:CS36];F:df4CnI@&]l9Xq.1IB4._0=%/mbMbc8&TGA#kb$@IVO5ceOe;VA=7>c#E8:`3ajbiRRmU)tT72z2k`44M'0FIHO;-Hqo-@+ENk1#g[`8p(=gF8=@V?eW<Y.@30k.0uFs9lRJEGT0P7E/]Gw'a&9]B2Zw0)lCI4/7[4Utsp#&$imEm)%'.i/J=Qb'F(mw5Ea+[I/+W9tPpN02`9S,+oS>w]@Bq(G;+7O+dc5UJkCJVLSt(?&IbGO1nL[^zaA:Fa])e'.v@7z-vD-S>0R^r)zs=A8zbKF'K.g@9g;;R185BN5(L%2&m--XCe$&$;<S]B6=aiI,cQ'9?O='*#pQO3)-fTk)$^wuGI7BT*6v/F%&,UUAMqq`G:1wm5_:_/#<$HAr8NB*,kevp<s8-@YHRzT+hhmb)2[U9>:doOGIW;UF&hQ8$/:/@zwflboWt3f7(=Pu9O,7@/%6nE-l<k&Kscv<,9b<T*P<PC+i6$Y?P8@60zg_$JbSifJg-0=DUk*[*&b0:?.I<)J6>I%$BwX^%W3l$_@?TE+RX,p%bsqpI8J&wE0&dAKEr=b%gk;VVf,q77XeB-0ov%afZUl%4F.l+$q5l(<Za]6GY+:h9Ss*6CI/XF^U:30m<5XiCl(z'/$%lK,(E#`L8e$G8jW15,YpjdJtov%7LN*+#FT&j0>^g9LpW%UH+(j;>IGa2EE)5fH&?,S(ho>&Hj*Y1(j]P5/>]:#G4H''Fo3JH%wI8MH^l@j#('JuI+EY=j#q#X55EIm$,UeW^:@MaH.)M).mCG&>8hs]43XXRD2NXn,LFl2`IQ`chAY5,B[5Cl52W[1#fC`HJhJI&7ECkm%h.R38n0@6+A8o?-c]#D&h0d.4e<Q[IsN2BG%OVg+SN,S><)w[6:O2D+o1/W[)kJ`j_Ji@8zEZz6U:]W++iDJH8%8^;w_iz>WKYqh]mWhEf?H*%F#ksM+&0b6eN70,jt15AWeM_*04D/kX;NH(QZ@tlHKqO_`;Nn>`vPT4A8/M&f>$-(X<Z>5$Y4>o0.dP5laC8;KJA@>`TGn=/OV*9?<%zDcF)bA;[/#9C4jJBi1?7>F->VqEkEGm]LvqTFuPJ-_rwP&t[v*<YlI#&G9]a7/Y(.)fqIXeXB2@4D41&FW*%3kft#jcrqorG7vK@6VM2k.Cuj7AMHdA73Sl7k4c(_ko/*Q39n'B@CJU^8WA&2ApWO4Kwi&GpahWe#>`-/b-]M-:<njg:=z+B#RlnrE#Fni<f(ZX4Sqhr6&=a(m%ecX`#Fb8fSK'WA]'C(4?Gspg:M#a7+1ZU.Ss[h*Pwb5c5KtaPFIS#HKqgw0)h**pXulfA-D/U<Ud@Z62h1G:OJ&X3ZRtLJ*^NkLsZU&m[Xn).FZm[5KY9R'c&Nj2iR*g@S'IP_<R$vO38)QeNjPoK)#Tj)J0rTed[QI059&kA?-hA?q,bwB(5k35FVtS0r:75Lkm$EP^qe@%5q'SCl^RM<wLHY2kTQkN'O1=<21O[z)DD_Zf-E>Cr`bDMC4U?VZT^C(P3uE?eRPR3@&?m;.C[@-vImjL2hUiWrDU,HQ%sFzX@;u3/J5YDLnbM=qU:s>0pmK?37s&7#;cT0v.8b3vAK36$*Nl6+Lph5$?4FJ#s<G/NA7=106H3#oNvC=fO1H/n>W1#6R0aBS1;]<jpHF@Q)ou>+IlXFdC^9pI]d4#gKv^:,vHcrR-)3E>3Y@->kd_6o5T_Dj#C[=^]SnIG_RELYtT9Qwr'tFJpS='D#RE8RSYV;=6)>(d*E79O,1mQw(#&>-qUTJ-a8&J^-IOJG&GF:HUs)?Z8-Is7U&CCdKPlI0(3R(#oPZ<=RrisN#H'GDv$5+#d2=,NF.^6gN?o/jJ8.;[tRIY<8QX7Lm;3<IM@jz(;Qjf7L^V9GGh_2nU[:DIY<8`t+#t-5+h2MX&w+_p+3o>/j1HJSFs4F>Ng_;C1:7*qG=h;3TW_-XC?R>`ML';H<kh5H_R&8vYP&7j.HFCS)``/fO7%#CgwT2kn_I(5tlk=D6o9sHJ/i2YuG9E5v1,?57<q:>N/p-Q.H=V;Tb&rKtp##DK*&;Me+?'5TP78zlh/7ztimY$7Ti3F<o>(l0GEB<^^WjzA0imRZnvj1PuVJl?sWDQPoj?f@3Kpu;F5*F4r.'MMM40Kd-%]]";
+/*
+    editor
+*/
+
+
+var krpanoplugin = function () {
+    var local = this; // save the 'this' pointer from the current plugin object
+
+    local.name = "krpanoJS javascript plugin for editor";
+    local.version = "19.05.2024 rev.1120";
+    var krpano = null; // the krpano and plugin interface objects
+    var plugin = null;
+
+    // registerplugin - startup point for the plugin (required)
+    // - krpanointerface = krpano interface object
+    // - pluginpath = string with the krpano path of the plugin (e.g. "plugin[pluginname]")
+    // - pluginobject = the plugin object itself (the same as: pluginobject = krpano.get(pluginpath) )
+    local.registerplugin = function (krpanointerface, pluginpath, pluginobject) {
+        krpano = krpanointerface;
+        plugin = pluginobject;
+        krpano.uhta3d_editor = plugin;
+        // krpano.debugmode = false;
+        // krpano.debugkeys = false;
+        krpano.logkey = true;
+
+        // add plugin attributes and functions
+        // some example attributes:
+        // plugin.registerattribute("tmp", {}, null, function () {
+        //  log(plugin.tmp);
+        // });       
+
+
+        // register the size of the content
+        // plugin.registercontentsize(window.innerWidth, window.innerHeight);
+        plugin.registerattribute("version", local.version);
+
+        // plugin.registerattribute("panos", []);
+
+        // add a from xml callable functions:
+        // plugin.showmodal = showmodal;
+
+
+        // say hello
+        // console.log(`uhta3d_preloadPano [v${local.version}] by Dmitriy Podrushnyak`);
+        // krpano.call(`trace("uhta3d_preloadPano [v${local.version}] by Dmitriy Podrushnyak")`);
+
+        init_plugin();
+    };
+
+    const init_plugin = () => {
+        window.uhta3d_editor = new uhta3d_editor_class(); //.init();
+        // console.log('uhta3d_editor :: init');
+    }
+
+
+
+
+    /** Класс редатора HS */
+    class uhta3d_editor_class {
+        version = local.version;
+        isHSClickBlock = false;
+        keyBlock = false;
+        stylinghs_style = '*';
+        align_offset = 0.5;
+
+        constructor() {
+            console.log('uhta3d_editor :: init');
+            this.init();
+        }
+
+        init() {
+            window.krpano = document.getElementById('krpanoSWFObject').get('global');
+            this.stylinghs_style = '*';
+            this.showAim();
+
+            document.addEventListener('keydown', function (e) {
+                if (!this.keyBlock) {
+                    // console.log(e.code);
+                    switch (e.code) {
+                        case "Digit1":
+                            krpano.view.architectural = 1;
+                            console.log('Architectural view: On');
+                            break;
+                        case "Digit2":
+                            krpano.view.architectural = 0;
+                            console.log('Architectural view: Off');
+                            break;
+                        case "KeyA":
+                            uhta3d_editor.align(uhta3d_editor.align_offset * 1);
+                            break;
+                        case "KeyD":
+                            uhta3d_editor.align(uhta3d_editor.align_offset * -1);
+                            break;
+                        case "KeyW":
+                            // uhta3d_editor.setPanoNorth();
+                            break;
+                        case "KeyS":
+                            uhta3d_editor.align_save();
+                            break;
+                        case "KeyQ":
+                            uhta3d_editor.step1_modal();
+                            console.log('link start');
+                            break;
+                        case "KeyE":
+                            uhta3d_editor.step2();
+                            break;
+                        case "KeyR":
+                            uhta3d_editor.startRemoveHS();
+                            console.log('remove start..');
+                            break;
+                        case "KeyT":
+                            uhta3d_editor.stophRemoveHS();
+                            console.log('remove finish!');
+                            break;
+                        case "KeyF":
+                            uhta3d_editor.startStylingHS();
+                            console.log('styling start..');
+                            break;
+                        case "KeyG":
+                            uhta3d_editor.stopStylingHS();
+                            console.log('styling finish!');
+                            break;
+                        case "KeyH":
+                            uhta3d_editor.startStylingHS_modal();
+                            console.log('select style for HS..');
+                            break;
+                        case "KeyC":
+                            uhta3d_editor.getAllScenesFromKrpano();
+                            console.log('save all changes..');
+                            break;
+                        case "Esc":
+                            if (uhta3d_editor.is_step1) {
+                                uhta3d_editor.is_step1 = false;
+                                console.log('step 1 :: cancel!');
+                            }
+                            break;
+                    }
+                }
+            });
+            this.getHelp();
+
+            let curscene = {
+                'name': krpano.xml.scene,
+                'ath': krpano.view.hlookat,
+                'atv': krpano.view.vlookat,
+                'fov': krpano.view.fov,
+                'prealign': krpano.image.prealign,
+            };
+            krpano.actions.loadpano('scenes.xml');
+            krpano.actions.loadscene(curscene.name, `view.hlookat=${curscene.ath}&view.vlookat=${curscene.atv}&view.fov=${curscene.fov}`);
+        }
+
+
+        // to180(p) {
+        //     return (p * 1 - (p > 180 ? 180 : 0)) % 360;
+        // }
+        // to90(p) {
+        //     return (p * 1 - (p > 90 ? 90 : 0)) % 180;
+        // }
+
+        /** Вывод справки в консоль */
+        getHelp() {
+            console.log(`
+Editor's help:
+    Vertical alignment:
+        Digit 1/2 - Architectural view: On/Off
+        A/D - panorama rotation -/+ in degrees
+        S - save panorama rotation for current scene
+    Hotspot editor:
+        Q - link start
+        Е - link stop
+        R - remove start
+        T - remove stop
+        F - styling start
+        G - styling stop
+        H - select style hs
+    Save all changes:
+        C - save all to xml
+        `);
+        }
+
+        /** Выровнять панораму */
+        align(deg) {
+            let d = krpano.image.prealign ? krpano.image.prealign.split('|') : '0|0|0'.split('|');
+            // krpano.view.architectural = true;
+            let lx = Math.sin(Math.PI / 180 * krpano.view.hlookat);
+            let lz = Math.cos(Math.PI / 180 * krpano.view.hlookat);
+            krpano.image.prealign = `${(d[0] * 1 + deg * 1 * lx).toFixed(3) * 1 + 0.00001}|${0 + 0.00001}|${(d[2] * 1 + deg * 1 * lz).toFixed(3) * 1 + 0.00001}`;
+            // console.log('deg:', krpano.view.hlookat);
+            // console.log('x:', lx, deg * lx, '\nz:', lz, deg * lz);
+            // console.log('prealign:', krpano.image.prealign);
+        }
+
+        /** Установка сервера панорамы */
+        #setPanoNorth(deg) {
+            deg = deg ? deg : krpano.view.hlookat;
+
+            let pr = krpano.image.prealign ? krpano.image.prealign.split('|') : [0.00001, 0.00001, 0.00001];
+            pr[1] -= deg + 0.00001;
+            krpano.image.prealign = pr.join('|');
+            krpano.view.hlookat = 0;
+
+            krpano.hotspot.getArray().forEach(hs => {
+                hs.tmp_ath = typeof hs.tmp_ath == 'undefined' ? hs.ath : hs.tmp_ath;
+                // hs.ath = hs.tmp_ath - deg;
+                hs.ath -= deg;
+                hs.linkedscene_hoffset = hs.linkedscene_hoffset * 1 + deg;
+                // console.log(hs.linkedscene_hoffset);
+            })
+            // this.copyToClipboard(` prealign="${krpano.image.prealign}"`);
+            console.log(`prealign="${krpano.image.prealign}"`);
+
+            this.align_save();
+        }
+
+        /** Сохранение prealign */
+        align_save() {
+            let curscene = {
+                'name': krpano.xml.scene,
+                'ath': krpano.view.hlookat,
+                'atv': krpano.view.vlookat,
+                'fov': krpano.view.fov,
+                'prealign': krpano.image.prealign,
+            };
+
+            // только первый раз загрузить scenes.xml
+            // krpano.actions.loadpano('scenes.xml');
+            // krpano.actions.loadscene(curscene.name, `view.hlookat=${curscene.ath}&view.vlookat=${curscene.atv}&view.fov=${curscene.fov}`);
+
+            let xml = new DOMParser();
+            let sc = krpano.scene.getItem(krpano.xml.scene);
+            let dom = xml.parseFromString(krpano.xml.filecontent, 'text/xml');
+            let sc_xml = dom.querySelector(`scene[name="${sc.name}"]`);
+            let img = dom.querySelector(`scene[name="${sc.name}"] image`);
+
+            /* обновление prealign */
+            img.setAttribute('prealign', curscene.prealign);
+            // uhta3d_editor.reloadXml(`<krpano>${new XMLSerializer().serializeToString(sc_xml)}</krpano>`);
+
+            /* обновление hotspots */
+            let hotspot = sc_xml.querySelectorAll('hotspot')
+            hotspot.forEach(i => {
+                // console.log(i.getAttribute('name'), i.getAttribute('ath'), i.getAttribute('linkedscene_hoffset'));
+
+                let hs = krpano.hotspot.getItem(i.getAttribute('name'));
+                // console.log((hs.linkedscene_hoffset * 1).toFixed(2));
+                i.setAttribute('ath', hs.ath.toFixed(3));
+                i.setAttribute('linkedscene_hoffset', (hs.linkedscene_hoffset * 1).toFixed(3));
+
+                // console.log(i.getAttribute('name'), i.getAttribute('ath'), i.getAttribute('linkedscene_hoffset'));
+            })
+
+            /* применение изменений */
+            uhta3d_editor.reloadXml(sc_xml.outerHTML);
+            /* выключен архитектурный вид */
+            console.log('Architectural view: Off');
+        }
+
+        /** Загрузка сцены */
+        loadscene(name) {
+            krpano.actions.loadscene(name);
+        }
+
+        /**
+         * Получение и форматирование сцен в xml
+         * @param {string} text_xml 
+         */
+        getAllScenes(text_xml) {
+            /* все споты */
+            let text = '', tmp_hs = [], tmp_hs_xml = [], hs_arr = [];
+            let curscene = {
+                'name': krpano.xml.scene,
+                'ath': krpano.view.hlookat,
+                'atv': krpano.view.vlookat,
+            };
+            let xml = new DOMParser();
+            let sc_tmp = xml.parseFromString("<krpano>" + text_xml + "</krpano>", 'text/xml').getElementsByTagName('scene');
+            Object.entries(sc_tmp).forEach(sc => {
+                sc = sc[1];
+                let sc_name = sc.getAttribute('name').replace('scene_', '');
+
+                tmp_hs[sc_name] = [];
+                tmp_hs_xml[sc_name] = [];
+                hs_arr = sc.getElementsByTagName('hotspot');
+                Object.entries(hs_arr).forEach(hs => {
+                    hs = hs[1];
+                    let linksc = hs.getAttribute('linkedscene').replace('scene_', '');
+                    hs.setAttribute('name', `spot_${sc_name}_${linksc}`);
+                    hs.setAttribute('linkedscene_hoffset', (hs.getAttribute('linkedscene_hoffset') * 1).toFixed(3));
+                    tmp_hs[sc_name].push(new XMLSerializer().serializeToString(hs));
+                    tmp_hs_xml[sc_name].push(hs);
+                })
+                // Object.entries(hs_arr).forEach(hs => {
+                //     sc.removeChild(hs[1]);
+                //     console.log(`remove ${hs[1].getAttribute('name')} from ${sc_name}`);
+                // })
+                // Object.entries(tmp_hs_xml[sc_name]).forEach(i => {
+                //     sc.appendChild(i[1]);
+                //     console.log(`append ${i[1].getAttribute('name')} to ${sc_name}`);
+                // })
+                text += new XMLSerializer().serializeToString(sc);
+            });
+            // text.replace(/\r?\n|\r|\t/g, '');
+            let xml_text = "<krpano>\n\t" + text + "\n</krpano>";
+            this.copyToClipboard(xml_text);
+            console.log('getAllScenes :: xml generated');
+            krpano.actions.loadxml(xml_text);
+            krpano.actions.loadscene(curscene.name, `view.hlookat=${curscene.ath}&view.vlookat=${curscene.atv}`);
+            this.saveFile(xml_text, 'scenes.xml');
+        }
+
+        /**
+         * Получение сцен из krpano
+         */
+        getAllScenesFromKrpano() {
+
+            let text_xml = '';
+            krpano.scene.getArray().forEach(sc => {
+                text_xml += `<scene name="${sc.name}" title="${sc.title}" onstart="${sc.onstart}" thumburl="${sc.thumburl}" lat="${sc.lat}" lng="${sc.lng}" alt="${sc.alt}" heading="${sc.heading}">${sc.content}</scene>`;
+            })
+            console.log('getAllScenesFromKrpano :: scenes are obtained');
+            text_xml = text_xml.replaceAll('\n', '').replaceAll('\t', '');
+
+
+            /* все споты */
+            let text = '', tmp_hs = [], tmp_hs_xml = [], hs_arr = [];
+            let curscene = {
+                'name': krpano.xml.scene,
+                'ath': krpano.view.hlookat,
+                'atv': krpano.view.vlookat,
+            };
+            let xml = new DOMParser();
+            let sc_tmp = xml.parseFromString("<krpano>" + text_xml + "</krpano>", 'text/xml').getElementsByTagName('scene');
+            Object.entries(sc_tmp).forEach(sc => {
+                sc = sc[1];
+                let sc_name = sc.getAttribute('name').replace('scene_', '');
+
+                tmp_hs[sc_name] = [];
+                tmp_hs_xml[sc_name] = [];
+                hs_arr = sc.getElementsByTagName('hotspot');
+                Object.entries(hs_arr).forEach(hs => {
+                    hs = hs[1];
+                    let linksc = hs.getAttribute('linkedscene').replace('scene_', '');
+                    hs.setAttribute('name', `spot_${sc_name}_${linksc}`);
+                    hs.setAttribute('linkedscene_hoffset', (hs.getAttribute('linkedscene_hoffset') * 1).toFixed(3));
+                    tmp_hs[sc_name].push(new XMLSerializer().serializeToString(hs));
+                    tmp_hs_xml[sc_name].push(hs);
+                })
+                // Object.entries(hs_arr).forEach(hs => {
+                //     sc.removeChild(hs[1]);
+                //     console.log(`remove ${hs[1].getAttribute('name')} from ${sc_name}`);
+                // })
+                // Object.entries(tmp_hs_xml[sc_name]).forEach(i => {
+                //     sc.appendChild(i[1]);
+                //     console.log(`append ${i[1].getAttribute('name')} to ${sc_name}`);
+                // })
+                text += new XMLSerializer().serializeToString(sc);
+            });
+
+            let xml_text = "<krpano>\n\t" + text + "\n</krpano>";
+            this.copyToClipboard(xml_text);
+            console.log('getAllScenes :: xml generated');
+            krpano.actions.loadxml(xml_text);
+            krpano.actions.loadscene(curscene.name, `view.hlookat=${curscene.ath}&view.vlookat=${curscene.atv}`);
+
+            // return true;
+
+            this.saveFile(xml_text, 'scenes.xml');
+            // this.clearHsClone();
+        }
+
+        /** Список всех сцен */
+        getAllScenesName() {
+            return krpano.scene.getArray().map(i => i.name);
+        }
+        /** Список всех хотспотов в сцене */
+        getAllHotspotInScene() {
+            return Object.entries(new DOMParser().parseFromString(krpano.xml.content, 'text/xml').getElementsByTagName('hotspot')).map(i => i[1].getAttribute('name'));
+        }
+
+        /**
+         * Удалить копии хотспотов 
+         * @param {boolean} save    Необходимость сохранения
+         */
+        clearHsClone(save) {
+            if (typeof save !== 'boolean') {
+                save = true;
+            }
+            let cursc = krpano.xml.scene;
+            krpano.actions.loadpano('scenes.xml');
+            uhta3d_editor.loadscene(cursc);
+
+            let xml = new DOMParser();
+            let doc = xml.parseFromString(`${krpano.xml.filecontent}`, 'text/xml');
+            let isChanged = false;
+            let tmp_hs = [];
+
+            doc.querySelectorAll('scene').forEach(sc => {
+                if (sc.querySelectorAll('hotspot').length > 1) {
+                    tmp_hs[sc.getAttribute('name')] = [];
+                    // console.log(sc.getAttribute('name'));
+                    // console.log("\thotspot:", sc.querySelectorAll('hotspot').length);
+                    sc.querySelectorAll('hotspot').forEach(hs => {
+                        // let isClone = false;
+                        let p_hs_name = hs.getAttribute('name');
+                        if (tmp_hs[sc.getAttribute('name')].indexOf(p_hs_name) > -1) {
+                            isChanged = true;
+                            // isClone = true;
+                            let hs_remove = doc.querySelector(`hotspot[name="${p_hs_name}"]`);
+                            hs_remove.parentNode.removeChild(hs_remove);
+                            console.log(`remove ${p_hs_name}`);
+                        } else {
+                            tmp_hs[sc.getAttribute('name')].push(p_hs_name);
+                        }
+                        // console.log("\t\t", p_hs_name, isClone ? '*' : '');
+                        // isClone ? console.log(`\t\tremove hs[${p_hs_name}]`) : '';
+                    })
+                }
+            })
+
+            if (save) {
+                if (isChanged) {
+                    this.saveFile(new XMLSerializer().serializeToString(doc).replaceAll('\n', '').replaceAll('\t', ''), 'scenes.xml');
+                    console.log('clearHsClone :: reload pages after saving!');
+                    // window.location.reload();
+                } else {
+                    console.log('clearHsClone :: all is fine!');
+                }
+            }
+            console.log('clearHsClone :: Done!');
+            tmp_hs = null;
+
+            // krpano.actions.loadpano('scenes.xml');
+            // uhta3d_editor.loadscene(cursc);
+            this.reloadScene();
+        }
+
+        /** Загрузка из xml */
+        reloadXml(xml) {
+            let curscene = {
+                'name': krpano.xml.scene,
+                'ath': krpano.view.hlookat,
+                'atv': krpano.view.vlookat,
+                'fov': krpano.view.fov,
+            };
+            krpano.actions.loadxml('<krpano>' + xml + '</krpano>');
+            krpano.actions.loadscene(curscene.name, `view.hlookat=${curscene.ath}&view.vlookat=${curscene.atv}&view.fov=${curscene.fov}`);
+        }
+
+        /* Перезагрузка тура */
+        reloadScene() {
+            let curscene = {
+                'name': krpano.xml.scene,
+                'ath': krpano.view.hlookat,
+                'atv': krpano.view.vlookat,
+                'fov': krpano.view.fov,
+            };
+            krpano.actions.loadscene(curscene.name, `view.hlookat=${curscene.ath}&view.vlookat=${curscene.atv}&view.fov=${curscene.fov}`);
+        }
+
+        /** Перезагрузка полностью всего тура */
+        reloadTour() {
+            let curscene = {
+                'name': krpano.xml.scene,
+                'ath': krpano.view.hlookat,
+                'atv': krpano.view.vlookat,
+                'fov': krpano.view.fov,
+            };
+            window.location.href = `?startscene=${curscene.name}&startlookat=${curscene.ath},${curscene.atv},fov=${curscene.fov}`;
+        }
+
+        /** Создание hotspot */
+        addHotspot(name, ath, atv, offset) {
+            let curscene = {
+                'name': krpano.xml.scene,
+                'ath': krpano.view.hlookat,
+                'atv': krpano.view.vlookat,
+                'fov': krpano.view.fov,
+            };
+            let linkedscene = '', linkedscene_hoffset = '';
+
+            if (name === '') {
+                let linksc = prompt('link to new scene (name_scane,hoffset)');
+                linkedscene = linksc.split(',')[0];
+                linkedscene_hoffset = linksc.split(',')[1] ? linksc.split(',')[1] : 0;
+            } else {
+                linkedscene = name;
+                linkedscene_hoffset = offset ? offset : 0;
+            }
+            // console.log(linkedscene, linkedscene_hoffset);
+
+            let t = krpano.addhotspot(`spot_${curscene.name.replace('scene_', '')}_${linkedscene.replace('scene_', '')}`);
+            t.loadstyle('skin_hotspotstyle');
+            t.ath = ath ? ath.toFixed(3) : krpano.view.hlookat.toFixed(3);
+            t.atv = atv ? atv.toFixed(3) : krpano.view.vlookat.toFixed(3);
+            t.linkedscene = linkedscene;
+            t.linkedscene_hoffset = linkedscene_hoffset.toFixed(3);
+            // t.rotate = 0;
+
+
+            let xml = new DOMParser();
+            let sc = krpano.scene.getItem(krpano.xml.scene);
+
+            let scene_xml = xml.parseFromString(`<scene name="${sc.name}" title="${sc.title}" onstart="${sc.onstart}" thumburl="${sc.thumburl}" lat="${sc.lat}" lng="${sc.lng}" alt="${sc.alt}" heading="${sc.heading}">` + sc.content + '\n</scene>', 'text/xml').getElementsByTagName('scene')[0];
+
+            /* remove old hs */
+            scene_xml.querySelectorAll(`hotspot[name=${t.name}]`).forEach(hs => {
+                // console.log(`remove ${hs}`);
+                hs.parentNode.removeChild(hs);
+            });
+            // console.log(`after remove "${t.name}"`, scene_xml);
+            // sc.content = scene_xml;
+
+            /* append new hs */
+            scene_xml.appendChild(xml.parseFromString(`<hotspot name="${t.name}" tooltip="${krpano.scene.getItem(t.linkedscene).title}" style="skin_hotspotstyle" ath="${t.ath}" atv="${t.atv}" linkedscene="${t.linkedscene}" linkedscene_hoffset="${t.linkedscene_hoffset}" use3dtransition="true" />`, 'text/xml').getElementsByTagName('hotspot')[0]);
+
+            /* update tour */
+            krpano.actions.loadxml('<krpano>' + new XMLSerializer().serializeToString(scene_xml) + '</krpano>');
+            krpano.actions.loadscene(curscene.name, `view.hlookat=${curscene.ath}&view.vlookat=${curscene.atv}&view.fov=${curscene.fov}`);
+        }
+        /** Создание HS step1 с модальным окном*/
+        step1_modal() {
+            this.keyBlock = true;
+            console.log('step 1 :: Select a scene name...');
+
+            let scene_list_dom = '';
+            let scene_list = krpano.scene.getArray().map(i => i.name).filter(i => i !== krpano.xml.scene);
+            scene_list.forEach(i => {
+                scene_list_dom += `<option value="${i}"></option>`;
+            })
+            bs_modal.openmodal('title', `Enter scane name: <input id="select_sc" list="select_sc_ds" class="w-100"><datalist id="select_sc_ds">${scene_list_dom}</datalist>`, null, 'ок');
+            setTimeout(() => document.getElementById('select_sc').focus(), 500);
+            document.getElementById('select_sc').addEventListener('keydown', function (e) {
+                if (['Enter', 'NumpadEnter'].indexOf(e.code) > -1) {
+                    if (scene_list.indexOf(this.value) > -1) {
+                        uhta3d_editor.step1(this.value);
+                        bs_modal.closemodal();
+                    } else {
+                        bs_modal.closemodal();
+                        alert(`Scene "${this.value}" not found!`);
+                        setTimeout(() => uhta3d_editor.step1_modal(), 300);
+                    }
+                }
+            });
+            this.addEventToModal();
+        }
+
+        is_step1 = false;
+
+        /** Создание HS шаг 1 */
+        step1(sc) {
+            this.is_step1 = true;
+            window.vh1 = krpano.view.hlookat;
+            window.vv1 = krpano.view.vlookat;
+            window.sc_name_1 = krpano.xml.scene;
+            window.sc_name_2 = sc;
+            krpano.actions.loadscene(sc_name_2);
+        }
+
+        /** Создание HS шаг 2 */
+        step2() {
+            if (this.is_step1) {
+                let vh1 = window.vh1;
+                let vh2 = krpano.view.hlookat;
+                let vv2 = krpano.view.vlookat;
+                let offset = vh1 - vh2;
+                let sc_name_1 = window.sc_name_1;
+                let sc_name_2 = krpano.xml.scene;
+                krpano.view.hlookat = vh2;
+                if (krpano.hotspot.getItem(sc_name_1)) {
+                    krpano.removehotspot(sc_name_1);
+                }
+                this.addHotspot(sc_name_1, vh2, vv2, offset * 1 + 180);
+                krpano.actions.loadscene(sc_name_1, null, 'MERGE', 'NOBLAND', function () {
+                    if (krpano.hotspot.getItem(sc_name_2)) {
+                        krpano.removehotspot(sc_name_2);
+                    }
+                    krpano.view.hlookat = vh1;
+                    uhta3d_editor.addHotspot(sc_name_2, vh1, vv1, offset * -1 + 180);
+                });
+                this.is_step1 = false;
+                console.log('step2 :: link done');
+            } else {
+                alert('First you have to press "Q"!');
+            }
+        }
+
+        /** Удаление HS */
+        startRemoveHS() {
+            krpano.hotspot.getArray().filter(i => i.linkedscene).forEach(i => {
+                // console.log(i.onclick);
+                i.onclick_back = i.onclick;
+                i.onclick = function () {
+                    // console.log('del ' + i.name + '?')
+                    uhta3d_editor.removeHS(i.name);
+                }
+            });
+        }
+        stophRemoveHS() {
+            krpano.hotspot.getArray().filter(i => i.linkedscene).forEach(i => {
+                // console.log(i.onclick);
+                i.onclick = i.onclick_back;
+                delete i.onclick_back;
+            });
+        }
+        removeHS(p_hs_name) {
+            let xml = new DOMParser();
+            let sc = krpano.scene.getItem(krpano.xml.scene);
+            let ath = krpano.view.hlookat;
+            let atv = krpano.view.vlookat;
+            let scene_xml = xml.parseFromString(`<scene name="${sc.name}" title="${sc.title}" onstart="${sc.onstart}" thumburl="${sc.thumburl}" lat="${sc.lat}" lng="${sc.lng}" alt="${sc.alt}" heading="${sc.heading}">` + sc.content + '\n</scene>', 'text/xml').getElementsByTagName('scene')[0];
+
+            Object.entries(scene_xml.getElementsByTagName('hotspot')).forEach(h => {
+                if (h[1].getAttribute('name') == p_hs_name) {
+                    scene_xml.removeChild(h[1]);
+                    console.log(`hs[${p_hs_name}] deleted`);
+                }
+            });
+
+            krpano.actions.loadxml('<krpano>' + new XMLSerializer().serializeToString(scene_xml) + '</krpano>');
+            krpano.actions.loadscene(sc.name, `view.hlookat=${ath}&view.vlookat=${atv}`);
+        }
+
+
+        /** Стиль HS */
+        setStylingHS() {
+            let style_arr = krpano.style.getArray().map(i => i.name);
+            // style_arr.forEach(i => console.log(i));
+            this.stylinghs_style = prompt('Select a style name or * for a standard style:');  // hs_zigzag, hs_l2
+            if (style_arr.indexOf(this.stylinghs_style) == -1 && this.stylinghs_style !== '*') {
+                alert(`Style "${this.stylinghs_style}" not found!`);
+                this.setStylingHS();
+                console.clear();
+            }
+            console.clear();
+        }
+        startStylingHS_modal() {
+            this.keyBlock = true;
+
+            let style_list_dom = '';
+            let style_list = krpano.style.getArray().map(i => i.name);
+            style_list.forEach(i => {
+                style_list_dom += `<option value="${i}"></option>`;
+            })
+            bs_modal.openmodal('title', `Enter style name: <input id="select_style" list="select_style_ds" class="w-100"><datalist id="select_style_ds">${style_list_dom}</datalist>`, null, 'ок');
+            setTimeout(() => document.getElementById('select_style').focus(), 500);
+            document.getElementById('select_style').addEventListener('keydown', function (e) {
+                if (['Enter', 'NumpadEnter'].indexOf(e.code) > -1) {
+                    if (style_list.indexOf(this.value) > -1 || this.value == '*') {
+                        uhta3d_editor.stylinghs_style = this.value;
+                        bs_modal.closemodal();
+                    } else {
+                        bs_modal.closemodal();
+                        alert(`Style "${this.value}" no found!`);
+                        setTimeout(() => uhta3d_editor.startStylingHS_modal(), 300);
+                    }
+                }
+            });
+            this.addEventToModal();
+        }
+        startStylingHS() {
+            if (this.stylinghs_style !== '' || this.stylinghs_style == '*') {
+                krpano.hotspot.getArray().filter(i => i.linkedscene).forEach(i => {
+                    // console.log(i.onclick);
+                    i.onclick_back = i.onclick;
+                    i.onclick = function () {
+                        // console.log('del ' + i.name + '?')
+                        uhta3d_editor.stylingHS(i.name);
+                    }
+                });
+            } else {
+                console.log('stylinghs :: No style is set for styling!');
+                this.setStylingHS();
+                this.startStylingHS();
+            }
+        }
+        stopStylingHS() {
+            krpano.hotspot.getArray().filter(i => i.linkedscene).forEach(i => {
+                // console.log(i.onclick);
+                i.onclick = i.onclick_back;
+                delete i.onclick_back;
+            });
+        }
+        stylingHS(p_hs_name) {
+            let xml = new DOMParser();
+            let sc = krpano.scene.getItem(krpano.xml.scene);
+            let ath = krpano.view.hlookat;
+            let atv = krpano.view.vlookat;
+            let fov = krpano.view.fov;
+            let scene_xml = xml.parseFromString(`<scene name="${sc.name}" title="${sc.title}" onstart="${sc.onstart}" thumburl="${sc.thumburl}" lat="${sc.lat}" lng="${sc.lng}" alt="${sc.alt}" heading="${sc.heading}">` + sc.content + '\n</scene>', 'text/xml').getElementsByTagName('scene')[0];
+
+            krpano.hotspot.getItem(p_hs_name).loadstyle(this.stylinghs_style);
+            Object.entries(scene_xml.getElementsByTagName('hotspot')).forEach(h => {
+                if (h[1].getAttribute('name') == p_hs_name) {
+                    h[1].setAttribute('style', 'skin_hotspotstyle|' + this.stylinghs_style);
+                    console.log(`hs[${p_hs_name}] "${this.stylinghs_style}" style applied!`);
+                }
+            });
+
+            krpano.actions.loadxml('<krpano>' + new XMLSerializer().serializeToString(scene_xml) + '</krpano>');
+            krpano.actions.loadscene(sc.name, `view.hlookat=${ath}&view.vlookat=${atv}&view.fov=${fov}`);
+        }
+
+        /** Отображение перекрестия */
+        showAim() {
+            let l = krpano.addlayer();
+            l.keep = true;
+            l.align = 'center';
+            l.scale = 0.5;
+            l.capture = false;
+            // l.url = './plugins/uhta3d_editor/aim.png';
+            l.url = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAD6CAYAAACI7Fo9AAABJmlDQ1BBZG9iZSBSR0IgKDE5OTgpAAAoz2NgYDJwdHFyZRJgYMjNKykKcndSiIiMUmA/z8DGwMwABonJxQWOAQE+IHZefl4qAwb4do2BEURf1gWZxUAa4EouKCoB0n+A2CgltTiZgYHRAMjOLi8pAIozzgGyRZKywewNIHZRSJAzkH0EyOZLh7CvgNhJEPYTELsI6Akg+wtIfTqYzcQBNgfClgGxS1IrQPYyOOcXVBZlpmeUKBhaWloqOKbkJ6UqBFcWl6TmFit45iXnFxXkFyWWpKYA1ULcBwaCEIWgENMAarTQZKAyAMUDhPU5EBy+jGJnEGIIkFxaVAZlMjIZE+YjzJgjwcDgv5SBgeUPQsykl4FhgQ4DA/9UhJiaIQODgD4Dw745AMDGT/0ZOjZcAAAACXBIWXMAABcSAAAXEgFnn9JSAAAFyGlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNi4wLWMwMDIgNzkuMTY0MzUyLCAyMDIwLzAxLzMwLTE1OjUwOjM4ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgMjEuMSAoV2luZG93cykiIHhtcDpDcmVhdGVEYXRlPSIyMDI0LTA0LTIxVDIzOjMyOjE5KzAzOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDI0LTA0LTIxVDIzOjMyOjE5KzAzOjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAyNC0wNC0yMVQyMzozMjoxOSswMzowMCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozNzc1NmVjOC02OTgwLWIwNGMtYWIwYS1mNjY1ZWIwN2EyYjYiIHhtcE1NOkRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDplYmVmYzZjOC00NjMxLTBkNDctOTUxMC0zNzQ2NmMzOGE5MjMiIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo2ZDA0YmRmNy0yOTViLTA1NGMtODU0Yy0xNDhlNjZkZDkyNTAiIGRjOmZvcm1hdD0iaW1hZ2UvcG5nIiBwaG90b3Nob3A6Q29sb3JNb2RlPSIzIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ZDA0YmRmNy0yOTViLTA1NGMtODU0Yy0xNDhlNjZkZDkyNTAiIHN0RXZ0OndoZW49IjIwMjQtMDQtMjFUMjM6MzI6MTkrMDM6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCAyMS4xIChXaW5kb3dzKSIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6Mzc3NTZlYzgtNjk4MC1iMDRjLWFiMGEtZjY2NWViMDdhMmI2IiBzdEV2dDp3aGVuPSIyMDI0LTA0LTIxVDIzOjMyOjE5KzAzOjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgMjEuMSAoV2luZG93cykiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+bphc5gAABJhJREFUeNrt3LFO21ocwOFjFGfJZgndK9ZudKjEkgyoD5AnKXvfhTfxAyAWFkY2VtQKyVuXJML3794QtdRISQDXJN8nHcVD7OH4/LCrxh7UdZ2A3TYwBSB0QOiA0AGhA0IHhA4IHRA6CB0QOiB0QOiA0AGhA0IHhA5CB4QOCB0QOiB0QOiA0AGhg9ABoQNCB4QOCB0QOiB0QOiA0EHogNABoQNCB4QOCB0QOiB0EDogdEDogNDfSJZlzuKfPsQ4i3G6wTlexLiMcR7jdl8mqq5rofMufY5Rxhhtse84xpcY0xgXplLo9Nf5lpE/Gi2P8dFUCt2tWz//GVPEx3GzXRRFKssyDQbrneLFYpGm02mqqiotj1HE3FQSETr9M1xtDIdpPB5vtvNw2HoshE7PblB+vVOZz+cpz/O1dmy+++TupjadQgeEDggdEDogdEDogNBB6IDQAaEDQgeEDggdEDogdBA6IHRA6IDQAaEDQgeEDggdEDoIHRA6IHRA6IDQAaEDQgeEDkIHhA4IHRA6IHRA6IDQAaGD0AGhA0IHhA4IHRA6IHRA6IDQQeiA0AGhA0IHhA4IHRA6IHQQOiB0QOiA0AGhA0IH9jz0Ika+zY5ZllkFz8/NP2Yhzeu6roT+dxfi5/g4j3FsPb66b6Zgtc5u4uMsgr8QeveT/yE+yhgjS7HlMjSfd7LPnmguJGWsuU8R+63Qu3X2GHlRFCnPc8vxF4eHhxvvc3R0ZB5b/vhV1c8799FyzX0VerdOHzfKskwnJydW5RObRNt89/r62qQ90czJZDL5Y80JvTvD1cZw6ErU8R+GfdGsrbY1J/TuPKw2Hh6sSN5mkf2+th6EDggdEDogdEDogNBB6IDQe+xgtXFw4EzyNovs97V1IPTuzVYbs5kHMlps+ks3c9iyyGaz1jUn9O5cxhg3G9Pp1M83n2geaml+p73uvDSRN88L3N/fm7zn//hdCr17zXPoX2KMlk8X8cKr893dXTKXz/qxXHNC71LzXHCWZdPkxROvctu+7T574vHFE7dC/zuxX0TsH9MLXiW1g17rzTD/msr/b468Sqo/tj4RcRJ3ZkW+9jveYm6+63w3+H90EDogdEDogNABoQNCB4QOCB2EDggdEDogdEDogNABoQNCB6EDQgeEDggdEDogdEDogNBB6KYAhA4IHRA6IHRA6IDQAaEDQgehA0IHhA4IHRA6IHRA6IDQQeiA0AGhA0IHhA4IHRA6IHQQOiB0QOiA0AGhA0IHhA4IHRA6CB0QOiB0QOiA0HmBbLWRZSnP87V3bL7b7NN2LIROv8xWG7NZurq6SoPBeqd4sVj83KftWAj9/V8Cs526cFUxbmIcV1WVJpPJtsdpjlHt2Ny0quta6LxLZzHKGKMt9/+xPAZCp8cuYnxaxnq6wTlexLiMcR7j1jQK3a1X/zWhfjUNuKKD0AGhA0IHhA4IHRA6IHRA6CB0QOiA0AGhA0IHhA4IHRA6CB0QOiB0QOiA0AGhA0IHhA4IHYQOCB0QOiB0QOiA0AGhA0IHoQNCB4QOCB0QOiB0QOiA0EHogNABoQO99x94nMslrgOoxQAAAABJRU5ErkJggg==";
+
+            /* добавление списка сцен */
+            this.sc_list = {};
+            krpano.scene.getArray().map(i => i.name).forEach(i => this.sc_list[i.replace('scene_', '')] = i);
+        }
+
+        /** Сохранение файла */
+        saveFile(xml, fname) {
+            let file = new Blob([xml], { type: 'plain/text' });
+            let a = document.createElement('a');
+            a.href = URL.createObjectURL(file);
+            a.download = fname;
+            a.click();
+        }
+
+        /** Добавление события на закрытие модальной формы */
+        addEventToModal() {
+            document.getElementById('editor_modal').addEventListener('hide.bs.modal', () => {
+                uhta3d_editor.keyBlock = false;
+                // console.log('keyBlock = false');
+                console.log('The operation has been canceled!');
+            });
+        }
+
+        /** Копирование в буфер обмена */
+        copyToClipboard(o) { if (window.clipboardData && window.clipboardData.setData) return window.clipboardData.setData("Text", o); if (document.queryCommandSupported && document.queryCommandSupported("copy")) { var t = document.createElement("textarea"); t.textContent = o, t.style.position = "fixed", document.body.appendChild(t), t.select(); try { return document.execCommand("copy") } catch (t) { return console.warn("Copy to clipboard failed.", t), prompt("Copy to clipboard: Ctrl+C, Enter", o) } finally { document.body.removeChild(t) } } }
+    }
+
+
+
+
+
+
+
+    /**
+     * Вывод в консоль
+     * @param {type} name
+     * @param {type} str
+     * @returns {undefined}
+     */
+    function log(name, str) {
+        if (plugin.log === 'true' || plugin.log == "1") {
+            str ? console.log(name + ': ', str) : console.log(name);
+        }
+    }
+    function logClear() {
+        if (plugin.log === 'true' || plugin.log == "1") {
+            console.clear();
+        }
+    }
+
+
+    // unloadplugin - end point for the plugin (optionally)
+    // - will be called from krpano when the plugin will be removed
+    // - everything that was added by the plugin (objects,intervals,...) should be removed here
+    local.unloadplugin = function () {
+        plugin = null;
+        krpano = null;
+    }
+}
+
